@@ -2,8 +2,8 @@
 
 ## 네이버 영화 리뷰 데이터셋 분류 모델
 ### 레퍼런스
-https://wikidocs.net/44249
-https://www.kaggle.com/competitions/2024-ml-project-korean/overview
+1. https://wikidocs.net/44249
+2. https://www.kaggle.com/competitions/2024-ml-project-korean/overview
 
 ### 데이터셋
 네이버 영화 리뷰 데이터셋(NSMC: Naver Sentiment Movie Corpus)
